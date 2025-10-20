@@ -1,0 +1,134 @@
+[
+  {
+    "agent_id": 1,
+    "agent_name": "Agente 1",
+    "validations": [
+      {
+        "transaction_id": 1,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 2,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 3,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 4,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 5,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 1,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      },
+      {
+        "transaction_id": 2,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      },
+      {
+        "transaction_id": 3,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      },
+      {
+        "transaction_id": 4,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      },
+      {
+        "transaction_id": 5,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      }
+    ]
+  },
+  {
+    "agent_id": 2,
+    "agent_name": "Agente 2",
+    "validations": [
+      {
+        "transaction_id": 6,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 7,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 8,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 9,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 10,
+        "rule_id": "R001",
+        "ok": false,
+        "message": "⚠️ Error evaluando regla R001: unsupported operand type(s) for +: 'float' and 'NoneType'"
+      },
+      {
+        "transaction_id": 6,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      },
+      {
+        "transaction_id": 7,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      },
+      {
+        "transaction_id": 8,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      },
+      {
+        "transaction_id": 9,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      },
+      {
+        "transaction_id": 10,
+        "rule_id": "R002",
+        "ok": false,
+        "message": "❌ El monto destino no es correcto según el fee aplicado"
+      }
+    ]
+  }
+]
